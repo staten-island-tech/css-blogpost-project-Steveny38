@@ -4,6 +4,21 @@ body {
   color: teal;
   font-family: "Cute Font", cursive;
 }
+
+#mwhale {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 50px;
+  right: 50px;
+}
+.mwhalen {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
 h2 {
   margin-top: 5px;
 }
